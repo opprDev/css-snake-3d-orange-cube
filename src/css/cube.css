@@ -63,6 +63,15 @@ body {
 .cube:nth-child(6) {
   animation-delay: 0.30s;
 }
+.cube:nth-child(7) {
+  animation-delay: 0.35s;
+}
+.cube:nth-child(8) {
+  animation-delay: 0.40s;
+}
+.cube:nth-child(9) {
+  animation-delay: 0.45s;
+}
 
 @keyframes anim {
   50% {
