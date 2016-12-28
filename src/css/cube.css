@@ -63,60 +63,6 @@ body {
 .cube:nth-child(6) {
   animation-delay: 0.30s;
 }
-.cube:nth-child(7) {
-  animation-delay: 0.35s;
-}
-.cube:nth-child(8) {
-  animation-delay: 0.40s;
-}
-.cube:nth-child(9) {
-  animation-delay: 0.45s;
-}
-.cube:nth-child(10) {
-  animation-delay: 0.50s;
-}
-.cube:nth-child(11) {
-  animation-delay: 0.55s;
-}
-.cube:nth-child(12) {
-  animation-delay: 0.60s;
-}
-.cube:nth-child(13) {
-  animation-delay: 0.65s;
-}
-.cube:nth-child(14) {
-  animation-delay: 0.70s;
-}
-.cube:nth-child(15) {
-  animation-delay: 0.75s;
-}
-.cube:nth-child(16) {
-  animation-delay: 0.80s;
-}
-.cube:nth-child(17) {
-  animation-delay: 0.85s;
-}
-.cube:nth-child(18) {
-  animation-delay: 0.90s;
-}
-.cube:nth-child(19) {
-  animation-delay: 0.95s;
-}
-.cube:nth-child(20) {
-  animation-delay: 1.00s;
-}
-.cube:nth-child(21) {
-  animation-delay: 1.05s;
-}
-.cube:nth-child(22) {
-  animation-delay: 1.10s;
-}
-.cube:nth-child(23) {
-  animation-delay: 1.15s;
-}
-.cube:nth-child(24) {
-  animation-delay: 1.20s;
-}
 
 @keyframes anim {
   50% {
